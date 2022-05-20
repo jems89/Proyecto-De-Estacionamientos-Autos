@@ -1,3 +1,5 @@
 # Final-Lab-2
-Primeras pruebas en equipo
-Probando repo
+Sistema de gestion para estacionamientos de autos.
+informa entrada /salida
+hora , precio por ahora .
+sistema diario , mensual y anual de ingresos
